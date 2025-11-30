@@ -1,0 +1,22 @@
+﻿@model WebUI.ViewModels.RoleViewModel
+@{
+	ViewData["Title"] = "Create Role";
+}
+
+<h2>Create Role</h2>
+
+<hr />
+<form asp-action="Create" method="post">
+	<div asp-validation-summary="All" class="text-danger"></div>
+	@Html.AntiForgeryToken()
+	<partial name="/Views/Role/_RoleFormPartial.cshtml" model="Model" />
+	<button type="submit" class="btn btn-success">Save</button>
+	<a asp-controller="Role" asp-action="Index" class="btn btn-secondary">
+		Back
+	</a>
+</form>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
+

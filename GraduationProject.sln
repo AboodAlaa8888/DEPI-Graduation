@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{DA4692E0-4252-4110-B42A-74C9FD51962A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{77E016E3-121E-4FBF-BCFB-93647B608E21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{3EF1D1A7-B97C-4432-9949-0B834C2B8363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4692E0-4252-4110-B42A-74C9FD51962A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4692E0-4252-4110-B42A-74C9FD51962A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4692E0-4252-4110-B42A-74C9FD51962A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4692E0-4252-4110-B42A-74C9FD51962A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E016E3-121E-4FBF-BCFB-93647B608E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E016E3-121E-4FBF-BCFB-93647B608E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E016E3-121E-4FBF-BCFB-93647B608E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E016E3-121E-4FBF-BCFB-93647B608E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF1D1A7-B97C-4432-9949-0B834C2B8363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF1D1A7-B97C-4432-9949-0B834C2B8363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF1D1A7-B97C-4432-9949-0B834C2B8363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF1D1A7-B97C-4432-9949-0B834C2B8363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE799FA5-1739-4A32-B262-13180830821B}
+	EndGlobalSection
+EndGlobal

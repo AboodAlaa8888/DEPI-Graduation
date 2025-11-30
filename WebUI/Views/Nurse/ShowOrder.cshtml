@@ -1,0 +1,100 @@
+﻿@model Core.Models.Order
+
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<div class="page-header mb-4">
+    <h2 class="page-title">
+        <i class="bi bi-clipboard-check me-2"></i>Order Details
+    </h2>
+    <p class="page-subtitle">Review and manage this order</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="card shadow-lg border-0">
+            <div class="card-header">
+                <h5 class="mb-0 fw-bold">
+                    <i class="bi bi-info-circle me-2"></i>Order Information
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <div class="table-responsive mb-4">
+                    <table class="table table-hover align-middle">
+                        <thead>
+                            <tr>
+                                <th><i class="bi bi-calendar me-1"></i>Order Date</th>
+                                <th><i class="bi bi-hourglass-split me-1"></i>Duration</th>
+                                <th><i class="bi bi-clock me-1"></i>Time</th>
+                                <th><i class="bi bi-geo-alt me-1"></i>Address</th>
+                                <th><i class="bi bi-person me-1"></i>Patient Age</th>
+                                <th><i class="bi bi-gender-ambiguous me-1"></i>Gender</th>
+                                <th><i class="bi bi-info-circle me-1"></i>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <strong>@Model.OrderDate.ToString("MMM dd, yyyy")</strong>
+                                </td>
+                                <td>
+                                    <span class="badge bg-info">@Model.Duration hours</span>
+                                </td>
+                                <td>
+                                    <span class="badge bg-secondary">@Model.OrderDate.ToString("HH:mm")</span>
+                                </td>
+                                <td>@Model.Address</td>
+                                <td>@Model.PatientAge</td>
+                                <td>
+                                    <span class="badge bg-secondary">@Model.Gender</span>
+                                </td>
+                                <td>
+                                    <span class="badge @GetStatusBadgeClass(Model.Status)">@Model.Status</span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <div class="card bg-light border-0 mb-4">
+                    <div class="card-body">
+                        <h6 class="fw-bold mb-3">
+                            <i class="bi bi-card-text me-2"></i>Description
+                        </h6>
+                        <p class="text-muted mb-0">@Model.Description</p>
+                    </div>
+                </div>
+
+                <div class="d-flex gap-3 justify-content-end">
+                    <form asp-controller="Nurse" asp-action="CancelOrder" asp-route-id="@Model.Id" method="post" class="d-inline">
+                        <button type="submit" class="btn btn-danger" 
+                                onclick="return confirm('Are you sure you want to deny this order?');">
+                            <i class="bi bi-x-circle me-2"></i>Deny Order
+                        </button>
+                    </form>
+                    <form asp-controller="Nurse" asp-action="AcceptOrder" asp-route-id="@Model.Id" method="post" class="d-inline">
+                        <button type="submit" class="btn btn-success">
+                            <i class="bi bi-check-circle me-2"></i>Accept Order
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@functions {
+    public string GetStatusBadgeClass(Core.Models.OrderStatus status)
+    {
+        return status switch
+        {
+            Core.Models.OrderStatus.Pending => "bg-warning text-dark",
+            Core.Models.OrderStatus.Confirmed => "bg-info",
+            Core.Models.OrderStatus.InProgress => "bg-primary",
+            Core.Models.OrderStatus.Completed => "bg-success",
+            Core.Models.OrderStatus.Cancelled => "bg-danger",
+            _ => "bg-secondary"
+        };
+    }
+}

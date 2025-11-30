@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdelrhman\\Desktop\\V14.1\\GraduationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF1D1A7-B97C-4432-9949-0B834C2B8363}|WebUI\\WebUI.csproj|c:\\users\\abdelrhman\\desktop\\v14.1\\graduationproject\\webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3EF1D1A7-B97C-4432-9949-0B834C2B8363}|WebUI\\WebUI.csproj|solutionrelative:webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdelrhman\\Desktop\\V14.1\\GraduationProject\\WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Abdelrhman\\Desktop\\V14.1\\GraduationProject\\WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAGIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T23:20:22.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

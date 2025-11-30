@@ -1,0 +1,182 @@
+﻿@model WebUI.ViewModels.NurseViewModel
+
+@{
+    ViewData["Title"] = "Nurse Profile";
+    var nurse = Model;
+    var ordersCount = nurse?.Orders?.Count ?? 0;
+    var hasOrders = ordersCount > 0;
+}
+
+@if (nurse == null)
+{
+    <div class="container my-5">
+        <div class="alert alert-danger shadow-sm">
+            <h4 class="alert-heading">
+                <i class="bi bi-exclamation-triangle me-2"></i>Nurse Not Found
+            </h4>
+            <p>The requested nurse could not be found.</p>
+            <hr>
+            <a href="@Url.Action("Index", "Home")" class="btn btn-primary">
+                <i class="bi bi-house me-2"></i>Go to Home
+            </a>
+        </div>
+    </div>
+}
+else
+{
+    <div class="page-header mb-4">
+        <h2 class="page-title">
+            <i class="bi bi-person-badge me-2"></i>My Profile
+        </h2>
+        <p class="page-subtitle">View your profile and order information</p>
+    </div>
+
+    <div class="row g-4">
+        <!-- Left Card: Profile Information -->
+        <div class="col-lg-5">
+            <div class="card shadow-lg border-0 h-100">
+                <div class="card-body p-4">
+                    <div class="text-center mb-4">
+                        <div class="position-relative d-inline-block">
+                            <img src="@(nurse.PictureUrl ?? "/images/default-nurse.jpg")" 
+                                 alt="Nurse Profile" 
+                                 class="rounded-circle border border-4 border-primary shadow"
+                                 style="width: 150px; height: 150px; object-fit: cover;" />
+                            @if (ordersCount > 0)
+                            {
+                                <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger" style="font-size: 0.875rem;">
+                                    @ordersCount
+                                </span>
+                            }
+                        </div>
+                        <h4 class="mt-3 fw-bold">@nurse.FullName</h4>
+                        <p class="text-muted mb-0">
+                            <i class="bi bi-briefcase me-1"></i>@nurse.Experience_years years experience
+                        </p>
+                    </div>
+
+                    <div class="mb-4">
+                        <h6 class="fw-bold mb-3 text-primary">
+                            <i class="bi bi-info-circle me-2"></i>Description
+                        </h6>
+                        <p class="text-muted">@(string.IsNullOrEmpty(nurse.Description) ? "No description provided." : nurse.Description)</p>
+                    </div>
+
+                    <div class="border-top pt-3">
+                        <h6 class="fw-bold mb-3 text-primary">
+                            <i class="bi bi-person-vcard me-2"></i>Personal Information
+                        </h6>
+                        <div class="row g-3">
+                            <div class="col-6">
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="bi bi-calendar text-primary me-2"></i>
+                                    <div>
+                                        <small class="text-muted d-block">Age</small>
+                                        <strong>@nurse.Age</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="d-flex align-items-center mb-2">
+                                    <i class="bi bi-gender-ambiguous text-primary me-2"></i>
+                                    <div>
+                                        <small class="text-muted d-block">Gender</small>
+                                        <strong>@nurse.Gender</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="d-flex align-items-start">
+                                    <i class="bi bi-geo-alt text-primary me-2 mt-1"></i>
+                                    <div>
+                                        <small class="text-muted d-block">Address</small>
+                                        <strong>@nurse.Address</strong>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Card: Orders -->
+        <div class="col-lg-7">
+            <div class="card shadow-lg border-0 h-100">
+                <div class="card-header">
+                    <h5 class="mb-0 fw-bold">
+                        <i class="bi bi-list-check me-2"></i>Order Details
+                        @if (hasOrders)
+                        {
+                            <span class="badge bg-light text-dark ms-2">@ordersCount orders</span>
+                        }
+                    </h5>
+                </div>
+                <div class="card-body">
+                    @if (hasOrders)
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-hover align-middle">
+                                <thead>
+                                    <tr>
+                                        <th><i class="bi bi-clock me-1"></i>Duration</th>
+                                        <th><i class="bi bi-geo-alt me-1"></i>Address</th>
+                                        <th><i class="bi bi-person me-1"></i>Patient Age</th>
+                                        <th><i class="bi bi-info-circle me-1"></i>Status</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var order in nurse.Orders)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <span class="badge bg-info">@order.Duration hours</span>
+                                            </td>
+                                            <td>@order.Address</td>
+                                            <td>@order.PatientAge</td>
+                                            <td>
+                                                <span class="badge @GetStatusBadgeClass(order.Status)">@order.Status</span>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="text-center py-5">
+                            <i class="bi bi-inbox" style="font-size: 3rem; color: #dee2e6;"></i>
+                            <p class="text-muted mt-3 mb-0">No orders found for this nurse.</p>
+                        </div>
+                    }
+
+                    @if (hasOrders)
+                    {
+                        <div class="mt-4">
+                            <a href="@Url.Action("NurseOrdersForNurse", "Nurse", new { nurseId = nurse.Id })"
+                               class="btn btn-primary w-100">
+                                <i class="bi bi-list-ul me-2"></i>View All Orders (@ordersCount)
+                            </a>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@functions {
+    public string GetStatusBadgeClass(Core.Models.OrderStatus status)
+    {
+        return status switch
+        {
+            Core.Models.OrderStatus.Pending => "bg-warning text-dark",
+            Core.Models.OrderStatus.Confirmed => "bg-info",
+            Core.Models.OrderStatus.InProgress => "bg-primary",
+            Core.Models.OrderStatus.Completed => "bg-success",
+            Core.Models.OrderStatus.Cancelled => "bg-danger",
+            _ => "bg-secondary"
+        };
+    }
+}

@@ -1,0 +1,119 @@
+﻿@model WebUI.ViewModels.PatientRegisterViewModel
+@{
+    ViewData["Title"] = "Register Patient";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-10 col-lg-8">
+        <div class="card shadow-lg border-0 fade-in">
+            <div class="card-header text-center py-4">
+                <h3 class="mb-0 fw-bold">
+                    <i class="bi bi-person-plus me-2"></i>Patient Registration
+                </h3>
+                <p class="mb-0 mt-2 opacity-75">Create your patient account to access nursing services</p>
+            </div>
+            <div class="card-body p-4">
+                <form asp-controller="Account" asp-action="PatientRegister" method="post">
+                    @Html.AntiForgeryToken()
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+                    
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <label asp-for="FullName" class="form-label fw-semibold">
+                                <i class="bi bi-person me-1"></i>Full Name
+                            </label>
+                            <input asp-for="FullName" class="form-control" placeholder="Enter your full name" />
+                            <span asp-validation-for="FullName" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="UserName" class="form-label fw-semibold">
+                                <i class="bi bi-at me-1"></i>Username
+                            </label>
+                            <input asp-for="UserName" class="form-control" placeholder="Choose a username" />
+                            <span asp-validation-for="UserName" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="Email" class="form-label fw-semibold">
+                                <i class="bi bi-envelope me-1"></i>Email Address
+                            </label>
+                            <input asp-for="Email" class="form-control" type="email" placeholder="Enter your email" />
+                            <span asp-validation-for="Email" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="PhoneNumber" class="form-label fw-semibold">
+                                <i class="bi bi-telephone me-1"></i>Phone Number
+                            </label>
+                            <input asp-for="PhoneNumber" class="form-control" placeholder="Enter your phone number" />
+                            <span asp-validation-for="PhoneNumber" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-12">
+                            <label asp-for="Address" class="form-label fw-semibold">
+                                <i class="bi bi-geo-alt me-1"></i>Address
+                            </label>
+                            <input asp-for="Address" class="form-control" placeholder="Enter your address" />
+                            <span asp-validation-for="Address" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="Gender" class="form-label fw-semibold">
+                                <i class="bi bi-gender-ambiguous me-1"></i>Gender
+                            </label>
+                            <select asp-for="Gender" asp-items="ViewBag.Genders" class="form-select">
+                                <option value="">-- Select Gender --</option>
+                            </select>
+                            <span asp-validation-for="Gender" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="Age" class="form-label fw-semibold">
+                                <i class="bi bi-calendar me-1"></i>Age
+                            </label>
+                            <input asp-for="Age" class="form-control" type="number" placeholder="Enter your age" />
+                            <span asp-validation-for="Age" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="Password" class="form-label fw-semibold">
+                                <i class="bi bi-lock me-1"></i>Password
+                            </label>
+                            <input asp-for="Password" class="form-control" type="password" placeholder="Enter password" />
+                            <span asp-validation-for="Password" class="text-danger small"></span>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label asp-for="ConfirmPassword" class="form-label fw-semibold">
+                                <i class="bi bi-lock-fill me-1"></i>Confirm Password
+                            </label>
+                            <input asp-for="ConfirmPassword" class="form-control" type="password" placeholder="Confirm password" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger small"></span>
+                        </div>
+                    </div>
+
+                    <div class="d-grid gap-2 mt-4">
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            <i class="bi bi-person-plus me-2"></i>Register
+                        </button>
+                        <a asp-controller="Home" asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="bi bi-arrow-left me-2"></i>Back to Home
+                        </a>
+                    </div>
+
+                    <div class="text-center mt-4">
+                        <p class="mb-0 text-muted">
+                            Already have an account? 
+                            <a asp-controller="Account" asp-action="Login" class="text-decoration-none fw-semibold">Login here</a>
+                        </p>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,39 @@
+﻿@model WebUI.ViewModels.NurseViewModel
+
+@{
+    ViewData["Title"] = "Nurse";
+}
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card shadow-sm">
+            <div class="card-body p-4">
+                <h1 class="h4 mb-4">Nurse Profile</h1>
+                <div class="d-flex align-items-center mb-4">
+                    <img src="@Model.PictureUrl" alt="@Model.FullName" class="rounded-circle me-3" width="96" height="96" />
+                    <div class="text-muted">Profile image</div>
+                </div>
+                <dl class="row mb-4">
+                    <dt class="col-sm-3">Name</dt>
+                    <dd class="col-sm-9">@Model.FullName</dd>
+
+                    <dt class="col-sm-3">Age</dt>
+                    <dd class="col-sm-9">@Model.Age</dd>
+
+                    <dt class="col-sm-3">Experience</dt>
+                    <dd class="col-sm-9">@Model.Experience_years years</dd>
+                    
+                    <dt class="col-sm-3">Address</dt>
+                    <dd class="col-sm-9">@Model.Address</dd>
+
+                    <dt class="col-sm-3">Gender</dt>
+                    <dd class="col-sm-9">@Model.Gender</dd>
+
+                    <dt class="col-sm-3">Description</dt>
+                    <dd class="col-sm-9">@Model.Description</dd>
+                </dl>
+                <a class="btn btn-primary" asp-controller="User" asp-action="CreateOrder" asp-route-nurseId="@Model.Id">Order</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,45 @@
+﻿@model WebUI.ViewModels.NurseViewModel
+@{
+    ViewData["Title"] = "Edit Nurse";
+}
+
+<div class="page-header mb-4">
+    <h2 class="page-title">
+        <i class="bi bi-pencil-square me-2"></i>Edit Nurse
+    </h2>
+    <p class="page-subtitle">Update nurse information</p>
+</div>
+
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card shadow-lg border-0">
+            <div class="card-header">
+                <h5 class="mb-0 fw-bold">
+                    <i class="bi bi-person-gear me-2"></i>Nurse Information
+                </h5>
+            </div>
+            <div class="card-body p-4">
+                <form asp-controller="Nurse" asp-action="Edit" method="post" enctype="multipart/form-data">
+                    @Html.AntiForgeryToken()
+                    <input asp-for="Id" type="hidden" />
+                    <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+                    
+                    <partial name="/Views/Admin/_AdminFormPartial.cshtml" model="Model" />
+                    
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                        <a asp-controller="Nurse" asp-action="Index" class="btn btn-outline-secondary">
+                            <i class="bi bi-x-circle me-2"></i>Cancel
+                        </a>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="bi bi-check-circle me-2"></i>Update Nurse
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

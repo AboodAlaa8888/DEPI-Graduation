@@ -1,0 +1,250 @@
+D:\DEPI\Project\V0.1\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\DEPI\Project\V0.1\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V0.1\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\bin\Debug\net9.0\Core.deps.json
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\refint\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\DEPI\Project\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\DEPI\Project\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\DEPI\Project\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\DEPI\Project\Version13\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+D:\DEPI\Project\V14\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+D:\DEPI\Project\V14\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+D:\DEPI\Project\V14\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\V14\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.sourcelink.json
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+D:\DEPI\Project\V14\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\bin\Debug\net9.0\Core.deps.json
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\bin\Debug\net9.0\Core.runtimeconfig.json
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\bin\Debug\net9.0\Core.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\bin\Debug\net9.0\Core.pdb
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.AssemblyReference.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfoInputs.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.AssemblyInfo.cs
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.sourcelink.json
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\refint\Core.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.pdb
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\Core.genruntimeconfig.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Core\obj\Debug\net9.0\ref\Core.dll

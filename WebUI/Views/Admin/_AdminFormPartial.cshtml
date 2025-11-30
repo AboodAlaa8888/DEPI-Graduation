@@ -1,0 +1,62 @@
+﻿@model WebUI.ViewModels.NurseViewModel
+
+<div class="row g-3">
+    <div class="col-md-6">
+        <label asp-for="FullName" class="form-label fw-semibold">
+            <i class="bi bi-person me-1"></i>Full Name
+        </label>
+        <input asp-for="FullName" class="form-control" placeholder="Enter full name" />
+        <span asp-validation-for="FullName" class="text-danger small"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Age" class="form-label fw-semibold">
+            <i class="bi bi-calendar me-1"></i>Age
+        </label>
+        <input asp-for="Age" class="form-control" type="number" step="0.1" placeholder="Enter age" />
+        <span asp-validation-for="Age" class="text-danger small"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Experience_years" class="form-label fw-semibold">
+            <i class="bi bi-briefcase me-1"></i>Experience (Years)
+        </label>
+        <input asp-for="Experience_years" class="form-control" type="number" step="0.1" placeholder="Years of experience" />
+        <span asp-validation-for="Experience_years" class="text-danger small"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label asp-for="Gender" class="form-label fw-semibold">
+            <i class="bi bi-gender-ambiguous me-1"></i>Gender
+        </label>
+        <select asp-for="Gender" asp-items="ViewBag.Genders" class="form-select">
+            <option value="">-- Select Gender --</option>
+        </select>
+        <span asp-validation-for="Gender" class="text-danger small"></span>
+    </div>
+
+    <div class="col-12">
+        <label asp-for="Address" class="form-label fw-semibold">
+            <i class="bi bi-geo-alt me-1"></i>Address
+        </label>
+        <input asp-for="Address" class="form-control" placeholder="Enter address" />
+        <span asp-validation-for="Address" class="text-danger small"></span>
+    </div>
+
+    <div class="col-12">
+        <label asp-for="Description" class="form-label fw-semibold">
+            <i class="bi bi-card-text me-1"></i>Description
+        </label>
+        <textarea asp-for="Description" class="form-control" rows="4" placeholder="Enter nurse description and qualifications"></textarea>
+        <span asp-validation-for="Description" class="text-danger small"></span>
+    </div>
+
+    <div class="col-12">
+        <label asp-for="File" class="form-label fw-semibold">
+            <i class="bi bi-image me-1"></i>Profile Picture
+        </label>
+        <input type="file" asp-for="File" class="form-control" accept="image/*" />
+        <span asp-validation-for="File" class="text-danger small"></span>
+        <small class="text-muted">Upload a new profile picture (JPG, PNG). Leave empty to keep current image.</small>
+    </div>
+</div>

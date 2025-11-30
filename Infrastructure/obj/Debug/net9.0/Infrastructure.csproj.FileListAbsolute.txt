@@ -1,0 +1,325 @@
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\DEPI\Project\V0.1\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\DEPI\Project\V0.1\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject - Copy\GraduationProject - Copy\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Dotnet Projects\Final Projects\(Admin + Nurse + User)\Version 4 (Abdelsalam 3)\GraduationProject\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version02\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version05\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version06 (RoleController)\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version07\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version08\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Abdelrhman\Desktop\مشروع تخرج رواد\New folder (3)\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\DEPI\Project\Version09\Version09\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version11\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\Abdo Beah\Graduation Project DEPI\Version12\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\DEPI\Project\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\ziaad\Downloads\Version13\Version13\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+D:\DEPI\Project\V14\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.runtimeconfig.json
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\bin\Debug\net9.0\Core.pdb
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Abdelrhman\Desktop\V14.1\GraduationProject\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll

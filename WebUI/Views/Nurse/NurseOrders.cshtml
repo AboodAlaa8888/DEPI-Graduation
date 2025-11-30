@@ -1,0 +1,90 @@
+﻿@model List<WebUI.ViewModels.OrderViewModel>
+
+@{
+    ViewData["Title"] = "Nurse Orders";
+    var nurseName = ViewBag.NurseName;
+    var nurseId = ViewBag.NurseId;
+}
+
+<div class="page-header mb-4">
+    <div class="d-flex justify-content-between align-items-center flex-wrap gap-3">
+        <div>
+            <h2 class="page-title mb-2">
+                <i class="bi bi-list-check me-2"></i>My Orders
+            </h2>
+            <p class="page-subtitle mb-0">Orders for @nurseName</p>
+        </div>
+        <a href="@Url.Action("Profile", "Nurse", new { id = nurseId })" class="btn btn-outline-secondary">
+            <i class="bi bi-arrow-left me-2"></i>Back to Profile
+        </a>
+    </div>
+</div>
+
+<div class="content-container">
+    @if (Model != null && Model.Any())
+    {
+        <div class="table-responsive">
+            <table class="table table-hover align-middle">
+                <thead>
+                    <tr>
+                        <th><i class="bi bi-calendar me-1"></i>Order Date</th>
+                        <th><i class="bi bi-hourglass-split me-1"></i>Duration</th>
+                        <th><i class="bi bi-geo-alt me-1"></i>Address</th>
+                        <th><i class="bi bi-person me-1"></i>Patient Age</th>
+                        <th><i class="bi bi-info-circle me-1"></i>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var order in Model)
+                    {
+                        <tr>
+                            <td>
+                                <strong>@order.OrderDate.ToString("MMM dd, yyyy")</strong>
+                                <br>
+                                <small class="text-muted">@order.OrderDate.ToString("HH:mm")</small>
+                            </td>
+                            <td>
+                                <span class="badge bg-info">@order.Duration hours</span>
+                            </td>
+                            <td>@order.Address</td>
+                            <td>@order.PatientAge</td>
+                            <td>
+                                <span class="badge @GetStatusBadgeClass(order.Status)">@order.Status</span>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <div class="mt-4 p-3 bg-light rounded">
+            <p class="mb-0">
+                <i class="bi bi-info-circle me-2"></i>
+                <strong>Total Orders:</strong> <span class="badge bg-primary">@Model.Count</span>
+            </p>
+        </div>
+    }
+    else
+    {
+        <div class="text-center py-5">
+            <i class="bi bi-inbox" style="font-size: 4rem; color: #dee2e6;"></i>
+            <h5 class="text-muted mt-3">No Orders Found</h5>
+            <p class="text-muted">This nurse doesn't have any orders yet.</p>
+        </div>
+    }
+</div>
+
+@functions {
+    public string GetStatusBadgeClass(Core.Models.OrderStatus status)
+    {
+        return status switch
+        {
+            Core.Models.OrderStatus.Pending => "bg-warning text-dark",
+            Core.Models.OrderStatus.Confirmed => "bg-info",
+            Core.Models.OrderStatus.InProgress => "bg-primary",
+            Core.Models.OrderStatus.Completed => "bg-success",
+            Core.Models.OrderStatus.Cancelled => "bg-danger",
+            _ => "bg-secondary"
+        };
+    }
+}

@@ -1,0 +1,75 @@
+﻿@model WebUI.ViewModels.OrderViewModel
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h3>Book Session with @ViewBag.NurseName</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-controller="Order" asp-action="CreateCheckoutSession" method="post">
+
+                        <!-- Hidden Fields -->
+                        <input type="hidden" asp-for="NurseId" />
+                        <!-- We default Status to Pending in controller, no need to send it here -->
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="OrderDate" class="form-label"></label>
+                                <input asp-for="OrderDate" class="form-control" />
+                                <span asp-validation-for="OrderDate" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Duration" class="form-label"></label> (Hours)
+                                <input asp-for="Duration" class="form-control" />
+                                <span asp-validation-for="Duration" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Description" class="form-label"></label>
+                            <input asp-for="Description" class="form-control" placeholder="Brief reason for visit..." />
+                            <span asp-validation-for="Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label"></label>
+                            <textarea asp-for="Address" class="form-control" rows="2"></textarea>
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="PatientAge" class="form-label"></label>
+                                <input asp-for="PatientAge" class="form-control" />
+                                <span asp-validation-for="PatientAge" class="text-danger"></span>
+                            </div>
+
+                            <div class="col-md-6 mb-3">
+                                <label asp-for="Gender" class="form-label"></label>
+                                <select asp-for="Gender" class="form-select">
+                                    <option value="">Select Gender</option>
+                                    <option value="Male">Male</option>
+                                    <option value="Female">Female</option>
+                                </select>
+                                <span asp-validation-for="Gender" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2 mt-4">
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="bi bi-check-circle me-2"></i>Create Order
+                            </button>
+                            <p class="text-muted text-center small mt-2">
+                                <i class="bi bi-info-circle me-1"></i>
+                                Your order will be created and sent to the nurse for confirmation. You can pay after the order is confirmed.
+                            </p>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

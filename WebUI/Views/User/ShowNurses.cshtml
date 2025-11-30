@@ -1,0 +1,112 @@
+﻿@model IEnumerable<WebUI.ViewModels.NurseViewModel>
+
+@{
+    ViewData["Title"] = "Browse Nurses";
+}
+
+<div class="page-header mb-4">
+    <div class="d-flex justify-content-between align-items-center flex-wrap gap-3">
+        <div>
+            <h2 class="page-title mb-2">
+                <i class="bi bi-people me-2"></i>Available Nurses
+            </h2>
+            <p class="page-subtitle mb-0">Browse and select a nurse for your needs</p>
+        </div>
+    </div>
+</div>
+
+<div class="search-filter-section mb-4">
+    <div class="row g-3 align-items-end">
+        <div class="col-md-6">
+            <form asp-controller="User" asp-action="ShowNurses" method="get" class="d-flex align-items-end gap-2">
+                <div class="flex-grow-1">
+                    <label for="gender" class="form-label fw-semibold mb-2">Filter by Gender</label>
+                    <select name="genderString" asp-items="ViewBag.Genders"
+                            class="form-select" onchange="this.form.submit()">
+                        <option value="">-- All Genders --</option>
+                    </select>
+                </div>
+            </form>
+        </div>
+        <div class="col-md-6">
+            <div class="bg-white border rounded-3 shadow-sm p-3">
+                <h6 class="mb-3 text-muted fw-semibold text-center">Sort Options</h6>
+                <div class="d-flex gap-2">
+                    <a asp-controller="User" asp-action="SortAscending"
+                       class="btn btn-sm btn-primary flex-fill">
+                        <i class="bi bi-sort-alpha-down me-1"></i>Ascending
+                    </a>
+                    <a asp-controller="User" asp-action="SortDescending"
+                       class="btn btn-sm btn-secondary flex-fill">
+                        <i class="bi bi-sort-alpha-up me-1"></i>Descending
+                    </a>
+                    <a asp-controller="User" asp-action="ShowNurses"
+                       class="btn btn-sm btn-outline-dark">
+                        <i class="bi bi-arrow-counterclockwise"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-4">
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-6 col-lg-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div class="card-body p-4">
+                        <div class="d-flex align-items-start mb-3">
+                            <div class="nurse-avatar me-3">
+                                @if (!string.IsNullOrEmpty(item.PictureUrl))
+                                {
+                                    <img src="@item.PictureUrl" alt="@item.FullName's Picture" 
+                                         class="rounded-circle" style="width:70px;height:70px;object-fit:cover;" />
+                                }
+                                else
+                                {
+                                    <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" 
+                                         style="width:70px;height:70px;">
+                                        <i class="bi bi-person-fill text-white" style="font-size: 2rem;"></i>
+                                    </div>
+                                }
+                            </div>
+                            <div class="flex-grow-1">
+                                <h5 class="card-title mb-2 fw-bold">@item.FullName</h5>
+                                <div class="text-muted small">
+                                    <div class="mb-1">
+                                        <i class="bi bi-calendar me-1"></i>Age: @item.Age
+                                    </div>
+                                    <div class="mb-1">
+                                        <i class="bi bi-briefcase me-1"></i>Experience: @item.Experience_years years
+                                    </div>
+                                    <div class="mb-1">
+                                        <i class="bi bi-gender-ambiguous me-1"></i>@item.Gender
+                                    </div>
+                                    <div>
+                                        <i class="bi bi-geo-alt me-1"></i>@item.Address
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <a class="btn btn-primary w-100" asp-controller="User" asp-action="Nurse" asp-route-nurseId="@item.Id">
+                            <i class="bi bi-eye me-2"></i>View Details
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="col-12">
+            <div class="text-center py-5">
+                <i class="bi bi-inbox" style="font-size: 4rem; color: #dee2e6;"></i>
+                <h5 class="text-muted mt-3">No Nurses Found</h5>
+                <p class="text-muted">No nurses match your criteria.</p>
+            </div>
+        </div>
+    }
+</div>
